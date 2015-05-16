@@ -1,6 +1,6 @@
 {
     "port":3527,
-    "city": "Toulouse",
+    "city": "37322",
     "searchengine": "google",
     "partition": "/home",
     "active": "search",
@@ -10,10 +10,6 @@
         {
             "name":"ram",
             "interval": 1000
-        },
-        {
-            "name":"song",
-            "interval":1000
         },
         {
             "name":"disk",
